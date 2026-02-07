@@ -1,2 +1,3 @@
 # furkan-123
-Created by GhostBuilder: furkan
+
+Created by GhostBuilder.
